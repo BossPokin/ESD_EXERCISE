@@ -6,14 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="strategy-pattern" />
         <module name="singleton-pattern" />
         <module name="composite-pattern" />
+      </profile>
+      <profile name="Annotation profile for model" enabled="true">
+        <sourceOutputDir name="../singleton-pattern/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../singleton-pattern/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
         <module name="model" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="11">
       <module name="composite-pattern" target="1.5" />
-      <module name="singleton-pattern" target="1.5" />
+      <module name="singleton-pattern" target="1.8" />
+      <module name="strategy-pattern" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

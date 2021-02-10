@@ -1,12 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d6faa09-22ac-4b4f-84fd-82a98a757587" name="Default Changelist" comment="" />
+    <list default="true" id="8d6faa09-22ac-4b4f-84fd-82a98a757587" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composite-pattern/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composite-pattern/src/main/java/kmitl/esd/exercise1/strategy/composite/BusinessUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composite-pattern/src/main/java/kmitl/esd/exercise1/strategy/composite/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composite-pattern/src/main/java/kmitl/esd/exercise1/strategy/composite/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composite-pattern/src/test/java/kmitl/esd/excercise1/CompanyManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composite-pattern/src/test/java/kmitl/esd/exercise1/strategy/composite/DepartmentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composite-pattern/src/test/java/kmitl/esd/exercise1/strategy/model/ForeignCompanyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/src/main/java/kmitl/esd/exercise1/strategy/model/CompanyType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton-pattern/src/main/java/kmitl/esd/excercise1/registration/CompanyManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton-pattern/src/main/java/kmitl/esd/excercise1/registration/CompanyManagerRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton-pattern/src/main/java/kmitl/esd/excercise1/registration/ICompanyManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton-pattern/src/main/java/kmitl/esd/excercise1/registration/RegistrationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton-pattern/src/main/java/kmitl/esd/excercise1/simple/CompanyManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton-pattern/src/main/java/kmitl/esd/excercise1/simple/SingletonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleton-pattern/src/test/java/kmitl/esd/excercise1/registration/CompanyManagerRegistryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/src/main/java/kmitl/esd/exercise1/strategy/Average.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/src/main/java/kmitl/esd/exercise1/strategy/AverageMean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/src/main/java/kmitl/esd/exercise1/strategy/AverageMedian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/src/main/java/kmitl/esd/exercise1/strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/src/main/java/kmitl/esd/exercise1/strategy/UsSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/src/test/java/kmitl/esd/exercise1/strategy/AverageMeanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strategy-pattern/strategy-pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composite-pattern/src/main/java/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composite-pattern/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/composite-pattern/src/main/java/kmitl/esd/exercise1/strategy/composite/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composite-pattern/src/test/java/DepartmentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kmitlesdexercise1version10.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kmitl-esd-exercise1-61090050-Boss.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/model/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/main/java/kmitl/esd/exercise1/model/business/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/main/java/kmitl/esd/exercise1/strategy/model/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/main/java/kmitl/esd/exercise1/model/business/CompanyManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/main/java/kmitl/esd/exercise1/strategy/model/CompanyManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/main/java/kmitl/esd/exercise1/model/business/CompanyType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/main/java/kmitl/esd/exercise1/model/business/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/main/java/kmitl/esd/exercise1/strategy/model/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/main/java/kmitl/esd/exercise1/model/business/ForeignCompany.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/main/java/kmitl/esd/exercise1/strategy/model/ForeignCompany.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/main/java/kmitl/esd/exercise1/model/business/ICompany.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/main/java/kmitl/esd/exercise1/strategy/model/ICompany.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/main/java/kmitl/esd/exercise1/model/business/LocalCompany.java" beforeDir="false" afterPath="$PROJECT_DIR$/model/src/main/java/kmitl/esd/exercise1/strategy/model/LocalCompany.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/test/java/kmitl/esd/exercise1/model/business/LocalCompanyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/target/classes/Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/target/classes/kmitl/esd/excercise1/CompanyManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/target/classes/kmitl/esd/exercise1/model/business/Company.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/target/classes/kmitl/esd/exercise1/model/business/CompanyManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/target/classes/kmitl/esd/exercise1/model/business/CompanyType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/target/classes/kmitl/esd/exercise1/model/business/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/target/classes/kmitl/esd/exercise1/model/business/ForeignCompany.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/target/classes/kmitl/esd/exercise1/model/business/ICompany.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/target/classes/kmitl/esd/exercise1/model/business/LocalCompany.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/target/test-classes/DepartmentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/target/test-classes/kmitl/esd/excercise1/CompanyManagerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/target/test-classes/kmitl/esd/exercise1/model/business/LocalCompanyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton-pattern/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/singleton-pattern/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton-pattern/src/main/java/kmitl/esd/excercise1/CompanyManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singleton-pattern/src/test/java/kmitl/esd/excercise1/CompanyManagerTest.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -16,29 +80,67 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true" />
+  </component>
   <component name="ProjectId" id="1ngnC7L8B2YWvt4zIci3ooyNVbz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/composite-pattern/src/test/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/composite-pattern/src/main/java" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11.0.3" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/composite-pattern/src/test/java/kmitl/esd/exercise1/strategy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/strategy-pattern/src/main/java/kmitl/esd/exercise1/strategy" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="" />
+      <recent name="kmitl.esd.exercise1.strategy.composite" />
+      <recent name="kmitl.esd.excercise1.registration" />
+      <recent name="kmitl.esd.exercise1.strategy" />
       <recent name="kmitl.esd.excercise1" />
-      <recent name="kmitl.esd.exercise1.model.business" />
+      <recent name="kmitl.esd.exercise1.strategy.model" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+      <recent name="kmitl.esd.exercise1.strategy.model" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pokin\Desktop\Y3_S2\mitlesdexercise1version10\strategy-pattern\src\main\java\kmitl\esd\exercise1\strategy" />
       <recent name="C:\Users\pokin\Desktop\Y3_S2\mitlesdexercise1version10\composite-pattern\src\main\java" />
       <recent name="C:\Users\pokin\Desktop\Y3_S2\mitlesdexercise1version10\model\src\main\java\kmitl\esd\exercise1\model" />
       <recent name="C:\Users\pokin\Desktop\Y3_S2\mitlesdexercise1version10\model\src\main\java\kmitl.esd.exercise1.model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="kmitl.esd.excercise1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -53,9 +155,86 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.DepartmentTest.removeBusinessUnit">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kmitl.esd.exercise1.strategy.composite.Main" />
+      <module name="model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kmitl.esd.exercise1.strategy.composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompanyManagerTest.getInstance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kmitl.esd.excercise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kmitl.esd.excercise1" />
+      <option name="MAIN_CLASS_NAME" value="kmitl.esd.excercise1.CompanyManagerTest" />
+      <option name="METHOD_NAME" value="getInstance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentTest.addBusinessUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kmitl.esd.exercise1.strategy.composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kmitl.esd.exercise1.strategy.composite" />
+      <option name="MAIN_CLASS_NAME" value="kmitl.esd.exercise1.strategy.composite.DepartmentTest" />
+      <option name="METHOD_NAME" value="addBusinessUnit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentTest.removeBusinessUnit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kmitl.esd.exercise1.strategy.composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kmitl.esd.exercise1.strategy.composite" />
+      <option name="MAIN_CLASS_NAME" value="kmitl.esd.exercise1.strategy.composite.DepartmentTest" />
+      <option name="METHOD_NAME" value="removeBusinessUnit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForeignCompanyTest.getCompanyType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="model" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kmitl.esd.exercise1.strategy.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="kmitl.esd.exercise1.strategy.model" />
+      <option name="MAIN_CLASS_NAME" value="kmitl.esd.exercise1.strategy.model.ForeignCompanyTest" />
+      <option name="METHOD_NAME" value="getCompanyType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="kmitlesdexercise1version10" />
+      <module name="kmitl-esd-exercise1-61090050-Boss" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -68,7 +247,7 @@
       </method>
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="kmitlesdexercise1version10" />
+      <module name="kmitl-esd-exercise1-61090050-Boss" />
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -101,6 +280,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DepartmentTest.removeBusinessUnit" />
+        <item itemvalue="JUnit.DepartmentTest.addBusinessUnit" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ForeignCompanyTest.getCompanyType" />
+        <item itemvalue="JUnit.CompanyManagerTest.getInstance" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -114,6 +302,19 @@
       <updated>1611820470448</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
